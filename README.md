@@ -1,5 +1,5 @@
 # SLR-MLR
-This project has used patient-data and cars-data to analyse them.
+This project has used patient-data and cars-data for Model Development.
 ## 1. Simple Linear Regression or SLR
 
 Patient data contains Waist circumference and Adipose Tissue count of the patients [Supervised learning]. 
