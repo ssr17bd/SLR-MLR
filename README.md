@@ -1,6 +1,6 @@
 # SLR-MLR
 This project has used patient-data and cars-data to analyse them.
-# 1. Simple Linear Regression or SLR
+## 1. Simple Linear Regression or SLR
 
 Patient data contains Waist circumference and Adipose Tissue count of the patients [Supervised learning]. 
 
@@ -13,7 +13,7 @@ Cardiovascular Disease.
 
 X  - single input, Y - continuous
 
-# 2. Multiple Linear Regression or MLR
+## 2. Multiple Linear Regression or MLR
 Cars data will be used to develop a model with MLR 
 
 [MPG = b0 + b1*X1 + b2*X2 + .....+ bk*Xk]
